@@ -1,0 +1,10 @@
+import 'jquery';
+import 'popper.js';
+import 'bootstrap';
+import '../css/style.scss';
+import '../files/avatar.jpg';
+import '../files/lights.jpg';
+import '../files/map.jpg';
+import '../files/mountains.jpg';
+import '../files/sailboat.jpg';
+import '../files/snow.jpg';
